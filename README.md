@@ -11,7 +11,6 @@ This project analyzes sales data from Vrinda Store to uncover insights about per
 - Descriptive statistics and trend analysis
 - Product/category-wise sales performance
 - Customer behavior insights
-- Predictive patterns (if extended)
 
 ## 📌 Tools Used
 - Microsoft Excel
