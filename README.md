@@ -15,8 +15,8 @@ This project analyzes sales data from Vrinda Store to uncover insights about per
 
 ## 📌 Tools Used
 - Microsoft Excel
-- Python (optional extension)
-- Data Visualization Libraries (if used)
+- Data Cleaning
+- Data Visualization
 
 ## 👤 Author
 https://www.linkedin.com/in/nikhil9155/
