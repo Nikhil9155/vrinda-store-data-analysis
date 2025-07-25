@@ -17,5 +17,6 @@ This project analyzes sales data from Vrinda Store to uncover insights about per
 - Data Cleaning
 - Data Visualization
 
-## 👤 Author
-https://www.linkedin.com/in/nikhil9155/
+## 🔗 Connect with Me:
+
+LinkedIn : https://www.linkedin.com/in/nikhil9155/ Email : nikhilkumar081102@gmail.com
